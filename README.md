@@ -4,6 +4,8 @@ Sistem informasi manajemen pemesanan dan penggunaan kendaraan operasional perusa
 
 Aplikasi ini digunakan untuk mengelola data kendaraan, driver, pemesanan kendaraan, proses approval bertingkat, penggunaan kendaraan, fuel log, service schedule, activity log, dashboard pemakaian kendaraan, serta laporan pemesanan kendaraan.
 
+Untuk dokumentasi ada di folder docs.
+
 ---
 
 ## 1. Teknologi yang Digunakan
